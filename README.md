@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm [yisa tijani]
 ### Cybersecurity Enthusiast & Network Security Specialist
 
 Welcome to my professional portfolio. This repository serves as a live archive of my hands-on cybersecurity training, networking labs, and security research. I am dedicated to mastering the defense and analysis of modern digital infrastructure.
@@ -15,10 +15,10 @@ I am currently building my expertise across these three core pillars:
 
 ## 📜 Certifications
 I have validated my technical skills with the following industry-recognized credentials:
-* ✅ CompTIA Network+
-* ✅ Cisco Certified Network Associate (CCNA)
-* ✅ CompTIA Security+
-* ✅ Certified Ethical Hacker (CEH)
+* ✅ CompTIA Network+ in view
+* ✅ Cisco Certified Network Associate (CCNA) in viwe
+* ✅ CompTIA Security+  in viwe
+* ✅ Certified Ethical Hacker (CEH) in viwe
 
 ---
 
